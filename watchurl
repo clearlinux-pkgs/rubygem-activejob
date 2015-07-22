@@ -1,0 +1,5 @@
+# rubygem-actionmailer requires version (= 4.2.3)
+# check: https://rubygems.org/gems/actionmailer/versions/4.2.3
+# rubygem-rails requires version (= 4.2.3)
+# check: https://rubygems.org/gems/rails/versions/4.2.3
+watchurl=https://rubygems.org/gems/activejob/versions/(4.2.3)
