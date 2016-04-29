@@ -4,7 +4,7 @@
 #
 Name     : rubygem-activejob
 Version  : 4.2.3
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/activejob-4.2.3.gem
 Source0  : https://rubygems.org/downloads/activejob-4.2.3.gem
 Summary  : No detailed summary available
